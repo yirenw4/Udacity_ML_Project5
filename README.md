@@ -7,7 +7,7 @@
 ### Usage 
 To run the project, please open the jupyter notebook Stock_Price_Project.ipynb
 
-###Data 
+### Data 
 All data used for this project comes from Yahoo Finance:
 
 [https://finance.yahoo.com/quote/000001.SS/history?p=000001.SS]
